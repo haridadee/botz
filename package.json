@@ -20,7 +20,7 @@
   "author": "nabutol",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "https://github.com/pedro1559/bot-do-pedro.git",
+    "@adiwajshing/baileys": "https://github.com/pedro1559/botz/tree/main",
     "@kagchi/kag-api": "^1.5.5",
     "async": "^3.2.0",
     "axios": "^0.21.1",
@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/pedro1559/bot-do-pedro.git"
+    "url": "https://github.com/pedro1559/botz/tree/main"
   },
   "bugs": {
-    "https://github.com/pedro1559/bot-do-pedro.git"
+    "https://github.com/pedro1559/botz/tree/main"
   },
-  "homepage": "https://github.com/pedro1559/bot-do-pedro.git#readme"
+  "homepage": "https://github.com/pedro1559/botz/tree/main"
 }
